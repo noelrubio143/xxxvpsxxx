@@ -1,14 +1,1 @@
-[
-  {
-    "authType": "password",
-    "connectionType": "direct",
-    "group": "d",
-    "host": "d",
-    "hostSource": "cf",
-    "id": "c04a4e4f-9028-4f04-9766-d3cc84185f3a",
-    "name": "s",
-    "password": "d",
-    "port": 443,
-    "username": "d"
-  }
-]
+[]
