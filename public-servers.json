@@ -1,0 +1,12 @@
+[
+  {
+    "id": "temp",
+    "name": "Server 1",
+    "host": "1.2.3.4",
+    "port": 443,
+    "username": "user",
+    "authType": "password",
+    "password": "pass",
+    "connectionType": "direct"
+  }
+]
