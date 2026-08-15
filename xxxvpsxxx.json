@@ -1,1 +1,13 @@
-
+[
+  {
+    "authType": "password",
+    "connectionType": "direct",
+    "host": "d",
+    "hostSource": "cf",
+    "id": "cf8dd9af-7289-4594-b78a-7f7224db0605",
+    "name": "d",
+    "password": "d",
+    "port": 443,
+    "username": "d"
+  }
+]
