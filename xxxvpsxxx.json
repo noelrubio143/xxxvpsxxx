@@ -1,15 +1,1 @@
-[
-  {
-    "authType": "password",
-    "connectionType": "direct",
-    "group": "VLESS",
-    "host": "ph8gb.ambersvpn.shop",
-    "hostSource": "cf",
-    "id": "9f8d5aa0-cf91-4989-8e40-211f36232b6d",
-    "name": "UNLISOCIAL",
-    "notes": "vless://fa9c83d6-8f42-4a51-8bfc-a28e16575fab@api24-normal.tiktokv.com:443?encryption\u003dnone\u0026type\u003dws\u0026host\u003dph8gb.ambersvpn.shop\u0026headerType\u003dnone\u0026path\u003d%2Fvless\u0026security\u003dtls#unlitiktok",
-    "password": "ph8gb.ambersvpn.shop",
-    "port": 443,
-    "username": "ph8gb.ambersvpn.shop"
-  }
-]
+
